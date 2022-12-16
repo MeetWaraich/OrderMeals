@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="foods_array">
+        <item >Butter Masala Dosa</item>
+        <item>Daal Makhni</item>
+        <item>Vadda Pav</item>
+        <item>Aloo da Parantha</item>
+        <item>Nachos</item>
+        <item>Dhokla</item>
+        <item>Biryani</item>
+        <item>Pani Puri</item>
+    </string-array>
+</resources>

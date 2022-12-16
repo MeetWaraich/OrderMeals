@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MealsPlanning</string>
+    <string name="confirm_your_order">Confirm Your Order</string>
+    <string name="order_food">Order Food</string>
+    <string name="_10">10%</string>
+    <string name="_15">15%</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="tips">Tip</string>
+    <string name="_20">20%</string>
+</resources>
